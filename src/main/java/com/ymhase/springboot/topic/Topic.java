@@ -6,6 +6,8 @@ public class Topic {
     private String name;
     private String description;
 
+    
+    // non parameter constructor 
     public Topic() {
 
     }
